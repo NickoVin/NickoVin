@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @NickoVin
 - 👀 I'm interested in learning something new, participating in interesting projects, gaining development experience
+- 📒 I'm currently studying at the university in the direction of Software Development
 - 🌱 I’m currently learning languages: C++, Python, HTML, CSS, JavaScript, Lua, C# a bit
 - 🕵 I'm looking for something that I would like to do in the field of IT
 - 💞️ I’m looking to collaborate on the development of games, creation of mobile applications
